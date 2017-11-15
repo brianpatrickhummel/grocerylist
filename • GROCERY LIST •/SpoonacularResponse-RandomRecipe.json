@@ -1,0 +1,193 @@
+{
+  "recipes": [{
+    "vegetarian": false,
+    "vegan": false,
+    "glutenFree": true,
+    "dairyFree": true,
+    "veryHealthy": false,
+    "cheap": false,
+    "veryPopular": false,
+    "sustainable": false,
+    "weightWatcherSmartPoints": 17,
+    "gaps": "no",
+    "lowFodmap": true,
+    "ketogenic": false,
+    "whole30": false,
+    "servings": 4,
+    "preparationMinutes": 5,
+    "cookingMinutes": 20,
+    "sourceUrl": "http://thewanderlustkitchen.com/2013/09/27/beef-curry-with-butternut-squash/",
+    "spoonacularSourceUrl": "https://spoonacular.com/beef-curry-with-butternut-squash-506931",
+    "aggregateLikes": 137,
+    "spoonacularScore": 84,
+    "healthScore": 20,
+    "creditText": "The Wanderlust Kitchen",
+    "sourceName": "The Wanderlust Kitchen",
+    "pricePerServing": 305.27,
+    "extendedIngredients": [{
+      "id": 19334,
+      "aisle": "Baking",
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/brown-sugar-dark.jpg",
+      "consistency": "solid",
+      "name": "brown sugar",
+      "amount": 1,
+      "unit": "Tbsp",
+      "unitShort": "Tbsp",
+      "unitLong": "Tbsp",
+      "originalString": "1 Tbsp. brown sugar",
+      "metaInformation": []
+    }, {
+      "id": 11485,
+      "aisle": "Produce",
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/butternut-squash.jpg",
+      "consistency": "solid",
+      "name": "butternut squash",
+      "amount": 2,
+      "unit": "cups",
+      "unitShort": "cup",
+      "unitLong": "cups",
+      "originalString": "2 cups peeled and chopped butternut squash",
+      "metaInformation": ["peeled", "chopped"]
+    }, {
+      "id": 6194,
+      "aisle": "Canned and Jarred",
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/chicken-broth.png",
+      "consistency": "liquid",
+      "name": "chicken broth",
+      "amount": 1.25,
+      "unit": "c",
+      "unitShort": "cup",
+      "unitLong": "cups",
+      "originalString": "1¼ c. chicken broth",
+      "metaInformation": []
+    }, {
+      "id": 93749,
+      "aisle": "Ethnic Foods",
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/chili-garlic-sauce.jpg",
+      "consistency": "liquid",
+      "name": "chili-garlic sauce",
+      "amount": 4,
+      "unit": "Tbsp",
+      "unitShort": "Tbsp",
+      "unitLong": "Tbsps",
+      "originalString": "4 Tbsp. chili-garlic sauce",
+      "metaInformation": []
+    }, {
+      "id": 6179,
+      "aisle": "Ethnic Foods",
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/asian-fish-sauce.jpg",
+      "consistency": "liquid",
+      "name": "fish sauce",
+      "amount": 2,
+      "unit": "Tbsp",
+      "unitShort": "Tbsp",
+      "unitLong": "Tbsps",
+      "originalString": "2 Tbsp. fish sauce",
+      "metaInformation": []
+    }, {
+      "id": 23657,
+      "aisle": "Meat",
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/flank-steak.jpg",
+      "consistency": "solid",
+      "name": "flank steak",
+      "amount": 0.75,
+      "unit": "lb",
+      "unitShort": "lb",
+      "unitLong": "pounds",
+      "originalString": "¾ lb. rib-eye or flank steak, thinly sliced crosswise into 2-inch strips",
+      "metaInformation": ["thinly sliced"]
+    }, {
+      "id": 93605,
+      "aisle": "Ethnic Foods",
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/chili-paste.png",
+      "consistency": "solid",
+      "name": "red curry paste",
+      "amount": 2,
+      "unit": "Tbsp",
+      "unitShort": "Tbsp",
+      "unitLong": "Tbsps",
+      "originalString": "2 Tbsp. red curry paste (I used Panang)",
+      "metaInformation": ["red", "(I used Panang)"]
+    }, {
+      "id": 12117,
+      "aisle": "Canned and Jarred",
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/coconut-milk.jpg",
+      "consistency": "liquid",
+      "name": "unsweetened coconut milk",
+      "amount": 14,
+      "unit": "oz",
+      "unitShort": "oz",
+      "unitLong": "ounces",
+      "originalString": "1 (14 oz) can unsweetened coconut milk",
+      "metaInformation": ["unsweetened", "canned"]
+    }],
+    "id": 506931,
+    "title": "Beef Curry with Butternut Squash",
+    "readyInMinutes": 25,
+    "image": "https://spoonacular.com/recipeImages/506931-556x370.png",
+    "imageType": "png",
+    "cuisines": ["asian", "indian"],
+    "dishTypes": ["lunch", "main course", "main dish", "dinner"],
+    "diets": ["gluten free", "dairy free", "fodmap friendly"],
+    "instructions": "Heat a wok or heavy bottomed skillet over medium-high heat and pour in about half the can of coconut milk. Let it heat up and start to bubble, then add in the curry paste. Stir the curry paste into the milk by breaking it up with the back of a spoon. Once combined, add in the rest of the coconut milk and stir well.Reduce heat to medium, then add the beef pieces into the curry sauce and let cook for one minute. Pour the chicken broth into the pan, stir well, then add in the squash pieces. Cover and let cook 10-15 minutes, or until squash is cooked through.Stir in the fish sauce and brown sugar, then serve with egg noodles or rice with a tablespoon of chili-garlic sauce on top.",
+    "analyzedInstructions": [{
+      "name": "",
+      "steps": [{
+        "number": 1,
+        "step": "Heat a wok or heavy bottomed skillet over medium-high heat and pour in about half the can of coconut milk.",
+        "ingredients": [],
+        "equipment": [{
+          "id": 404645,
+          "name": "frying pan",
+          "image": "https://spoonacular.com/cdn/equipment_100x100/pan.png"
+        }, {
+          "id": 404666,
+          "name": "wok",
+          "image": "https://spoonacular.com/cdn/equipment_100x100/wok.png"
+        }]
+      }, {
+        "number": 2,
+        "step": "Let it heat up and start to bubble, then add in the curry paste. Stir the curry paste into the milk by breaking it up with the back of a spoon. Once combined, add in the rest of the coconut milk and stir well.Reduce heat to medium, then add the beef pieces into the curry sauce and let cook for one minute.",
+        "ingredients": [{
+          "id": 93605,
+          "name": "curry paste",
+          "image": "https://spoonacular.com/cdn/ingredients_100x100/red-curry-paste.png"
+        }],
+        "equipment": []
+      }, {
+        "number": 3,
+        "step": "Pour the chicken broth into the pan, stir well, then add in the squash pieces. Cover and let cook 10-15 minutes, or until squash is cooked through.Stir in the fish sauce and brown sugar, then serve with egg noodles or rice with a tablespoon of chili-garlic sauce on top.",
+        "ingredients": [{
+          "id": 93749,
+          "name": "chili garlic sauce",
+          "image": "https://spoonacular.com/cdn/ingredients_100x100/chili-garlic-sauce.jpg"
+        }, {
+          "id": 6194,
+          "name": "chicken broth",
+          "image": "https://spoonacular.com/cdn/ingredients_100x100/chicken-broth.png"
+        }, {
+          "id": 19334,
+          "name": "brown sugar",
+          "image": "https://spoonacular.com/cdn/ingredients_100x100/brown-sugar-dark.jpg"
+        }, {
+          "id": 6179,
+          "name": "fish sauce",
+          "image": "https://spoonacular.com/cdn/ingredients_100x100/asian-fish-sauce.jpg"
+        }, {
+          "id": 10011485,
+          "name": "squash",
+          "image": "https://spoonacular.com/cdn/ingredients_100x100/butternut-squash.jpg"
+        }],
+        "equipment": [{
+          "id": 404645,
+          "name": "frying pan",
+          "image": "https://spoonacular.com/cdn/equipment_100x100/pan.png"
+        }],
+        "length": {
+          "number": 15,
+          "unit": "minutes"
+        }
+      }]
+    }]
+  }]
+}
