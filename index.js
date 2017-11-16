@@ -3,13 +3,14 @@ var express = require("express");
 var bodyParser = require("body-parser");
 var logger = require("morgan");
 var mongoose = require("mongoose");
+var keys = require("./config/keys");
 
 // Require Schemas
 var User = require("./models/User.js");
 
 // Create Instance of Express
 var app = express();
-var PORT = process.env.PORT || 5000; // Sets an initial port. We'll use this later in our listener
+const PORT = process.env.PORT || 5000; // Sets an initial port. We'll use this later in our listener
 
 // Run Morgan for Logging
 app.use(logger("dev"));
@@ -25,7 +26,7 @@ app.use(express.static("public"));
 // Set mongoose to leverage built in JavaScript ES6 Promises
 mongoose.Promise = Promise;
 // MongoDB Configuration configuration
-mongoose.connect("mongodb://localhost/grocerylist", { useMongoClient: true }); /* add heroku database connection */
+mongoose.connect(keys.mongoURI, { useMongoClient: true });
 var db = mongoose.connection;
 
 db.on("error", function(err) {

@@ -4,9 +4,9 @@ import darkBaseTheme from "material-ui/styles/baseThemes/darkBaseTheme";
 import MuiThemeProvider from "material-ui/styles/MuiThemeProvider";
 import getMuiTheme from "material-ui/styles/getMuiTheme";
 import App from "./App";
-import Home from "./Components/Home";
-import Callback from "./Callback/Callback";
-import Auth from "./Auth/Auth";
+import Home from "./components/Home";
+import Callback from "./components/Callback/Callback";
+import Auth from "./auth/Auth";
 import history from "./history";
 
 const auth = new Auth();
