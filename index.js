@@ -27,6 +27,7 @@ app.use(express.static("public"));
 mongoose.Promise = Promise;
 // MongoDB Configuration configuration
 mongoose.connect(keys.mongoURI, { useMongoClient: true });
+console.log("THE MONGO URI IS: ", keys.mongoURI);
 var db = mongoose.connection;
 
 db.on("error", function(err) {
